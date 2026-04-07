@@ -1,19 +1,27 @@
-# Llane Resume Dashboard
+# Llane Glaiza Benting - Dashboard Resume
 
-This is my personal resume website built using HTML, CSS, and JavaScript.
+## Project Overview
+This is a personal dashboard/resume website showcasing my education, skills, projects, and contact information. The layout is responsive, interactive, and features smooth navigation with dark mode support.
 
-## Features
-- Sidebar navigation
-- Skills search
-- Project portfolio with clickable links
-- Dark mode toggle
-- Contact form
+## AI Tool(s) Used
+- ChatGPT
 
-## Live Website
-https://bentingllane.github.io/BENTING_RESUME/
+## Purpose of AI Use
+- Brainstorming ✔  
+- Layout/UI ideas ✔  
+- Debugging ✔  
+- Code generation ✔  
+- Refactoring □  
+- Styling suggestions □  
+- Other: ____________
 
-## GitHub Profile
-https://github.com/bentingllane
+## Where AI Was Used (Short Description)
+Debugging and assisting with code structures and layouts I was not familiar with. AI helped in generating HTML, CSS, and JS for smooth navigation, skills search, project filtering, and dark mode toggle.
 
-## Author
-Llane Glaiza Benting
+## Confirmation
+I confirm that I reviewed, tested, and understood the final code I submitted.
+
+## Links
+- GitHub Profile: [https://github.com/bentingllane](https://github.com/bentingllane)  
+- Project Repo: [https://github.com/bentingllane/BENTING_RESUME](https://github.com/bentingllane/BENTING_RESUME)  
+- Live Portfolio: [https://bentingllane.github.io/BENTING_RESUME/](https://bentingllane.github.io/BENTING_RESUME/)
